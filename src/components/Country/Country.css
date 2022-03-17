@@ -1,0 +1,11 @@
+.country_box{
+    text-transform: capitalize;
+    background-color: #cde1ff;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.country_box img {
+    width: 150px;
+}
